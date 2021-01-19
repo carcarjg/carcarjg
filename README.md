@@ -9,7 +9,7 @@ I’m always open for new projects, so feel free to [Contact me](mailto:help@ros
 
 - Nona Encription Standards
 - Lisa Encription Standards
-- Mika Keyloader for EFJ, Harris 7100 Series, and Motorola Radios
+- Mika Keyloader for EFJ, Harris 7X00/5X00 Series, and Motorola Radios
 - Klara Command And Control Software for P25, DMR, and MotoTRBO Systems
 - RSSS, Screen Shot Program for Windows Mobile 5 & 6 Devices
 - And Much More...
