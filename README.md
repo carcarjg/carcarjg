@@ -5,6 +5,9 @@ I’m always open for new projects, so feel free to [Contact me](mailto:help@ros
 ## My Open Source Projects
 - [Pocket PC Planet App Manager](https://github.com/carcarjg/PPCP-AppManager)
 
+## Open Source Projects I like (and contrib to)
+- [DVMProject](https://github.com/DVMProject)
+
 ## My Closed Source Projects
 
 - Nona Encription Standards
