@@ -10,9 +10,7 @@ I’m always open for new projects, so feel free to [Contact me](mailto:help@ros
 
 ## My Closed Source Projects
 
-- Nona Encription "Standards" - AES/DES Based
-- Lisa Encription "Standards" - RC4 based
-- ~~Mika Keyloader for EFJ, Harris 7X00/5X00 Series, and Motorola Radios~~
-- Klara Command And Control Software for P25, DMR, and TETRA Systems
+- Nona Encryption "Standards" - AES/DES Based
+- Lisa Encryption "Standards" - RC4 based
 - RSSS, Screen Shot Program for Windows Mobile 5 & 6 Devices
 - And Much More...
