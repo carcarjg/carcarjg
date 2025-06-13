@@ -7,7 +7,7 @@ C#, C++ (sometimes), .net compact for Windows mobile 6, the unending hell of the
 
 Hates
 ------
-C++ (sometimes), The Avaya Vantage K175 G2, The AXS (iykyk), ARES groups who claim they are secondary to any Trunk Radio System, people who think a Civil War is a good idea (I mean common, it was one of the worst Avengers movies...)
+C++ (sometimes), The Avaya Vantage K175 G2, The AXS (iykyk), ARES groups who claim they are secondary to any Trunk Radio System, people who think a Civil War is a good idea (I mean comeon, it was one of the worst Avengers movies...)
 
 Where can you find me?
 ------
